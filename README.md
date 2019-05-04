@@ -19,3 +19,5 @@ In this sample log, you see that the most popular page sequence is
 canonT2i.html -> tripod.html
 
 This was the page sequence that was visited by user1 and user3.
+
+Notes: Completed the task, but did not do my best during the interview. Came home and wrote a working script in 15 minutes.
